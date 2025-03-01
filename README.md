@@ -1,4 +1,4 @@
-To run code run the following command in terminal:
+To run the code, open your terminal and execute the following command:
 ```
   npm run start
 ```
