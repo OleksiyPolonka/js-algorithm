@@ -76,7 +76,8 @@ n + 2 unnecessary to add 2
         // code here...
       }
     }
-  }```
+  }
+```
 
 3. O(log n) - Logarithmic
 ```
@@ -117,4 +118,3 @@ n + 2 unnecessary to add 2
 ```
   const odd = [1, 3, 5, 7, 9]
 ```
-
