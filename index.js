@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const inquirer = require('inquirer').default || require('inquirer');
 
-const algorithmsDir = path.join(__dirname, './math-algorithms');
+const algorithmsDir = path.join(__dirname, './algorithms');
 
 function getJsFiles(dir) {
   let results = [];
